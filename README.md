@@ -1,6 +1,6 @@
-# 🏡 Ames Housing Data Analysis  
+#  Ames Housing Data Analysis  
 
-## 📌 Project Overview  
+##  Project Overview  
 This project explores the **Ames Housing Dataset** (sourced from Kaggle) using Python-based data analysis techniques.  
 The main objective was to **perform exploratory data analysis (EDA), identify trends, and visualize housing market patterns**.  
 
@@ -8,7 +8,7 @@ This project was completed as part of my **7-day journey to learn Data Analysis 
 
 ---
 
-## 🎯 Objectives  
+##  Objectives  
 - Clean and preprocess the Ames Housing dataset.  
 - Perform exploratory data analysis (EDA).  
 - Uncover insights about housing prices, sales trends, and property features.  
@@ -16,7 +16,7 @@ This project was completed as part of my **7-day journey to learn Data Analysis 
 
 ---
 
-## 🛠️ Tools & Libraries  
+##  Tools & Libraries  
 - **Python** (Data Analysis & Visualization)  
 - **Pandas** (Data manipulation)  
 - **Matplotlib & Seaborn** (Visualizations)  
@@ -24,7 +24,7 @@ This project was completed as part of my **7-day journey to learn Data Analysis 
 
 ---
 
-## 📊 Key Insights  
+##  Key Insights  
 
 1. **Sales Trends Over Time**  
    - Distribution of sales across years and months.  
@@ -46,7 +46,7 @@ AND MANY MORE
 
 ---
 
-## 🚀 Project Workflow  
+##  Project Workflow  
 1. **Data Loading** – Imported the Ames Housing dataset from Kaggle.  
 2. **Data Cleaning** – Handled missing values, duplicates, and categorical encodings.  
 3. **Exploratory Data Analysis (EDA)** – Used descriptive statistics, correlations, and visualizations.  
